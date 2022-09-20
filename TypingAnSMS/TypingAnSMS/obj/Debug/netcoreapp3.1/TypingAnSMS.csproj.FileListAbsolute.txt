@@ -1,0 +1,14 @@
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.exe
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.deps.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.runtimeconfig.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.runtimeconfig.dev.json
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\bin\Debug\netcoreapp3.1\TypingAnSMS.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.AssemblyInfoInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.AssemblyInfo.cs
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.dll
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.pdb
+C:\Users\niki\Desktop\SoftUni Original\Programming Fundamentals C#\Basic Syntax, Conditional Statements and Loops - More Exercise\TypingAnSMS\TypingAnSMS\obj\Debug\netcoreapp3.1\TypingAnSMS.genruntimeconfig.cache
