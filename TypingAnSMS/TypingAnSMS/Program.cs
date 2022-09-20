@@ -114,4 +114,6 @@ namespace TypingAnSMS
     }
 }
 
+// Or with string 
+
 
